@@ -1,6 +1,6 @@
 💫 About Me
 
-I am a Computer Science undergraduate with a strong interest in cybersecurity, DevOps, and modern web development. I enjoy building practical projects that strengthen my understanding of systems, automation, and secure application design.
+I am a Computer Science undergraduate with a strong interest in DevOps, and modern web development. I enjoy building practical projects that strengthen my understanding of systems, automation, and secure application design.
 
 🔹 Currently working on shell scripting, frontend development (HTML, JavaScript, Tailwind CSS), and cybersecurity-focused mini projects
 🔹 Actively exploring Linux system administration, cybersecurity fundamentals, and AWS cloud basics
@@ -13,7 +13,7 @@ I am a Computer Science undergraduate with a strong interest in cybersecurity, D
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1399679055632142366/1420360768410484776)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-5b4904334)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1399679055632142366/1420360768410484776) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-5b4904334)
 
 
 # 💻 Tech Stack:
